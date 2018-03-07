@@ -7,17 +7,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_DefineClassPerson", "01_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_CreatingConstructors", "02_CreatingConstructors\02_CreatingConstructors.csproj", "{C0905656-126C-42C5-9DBD-7537CD2899CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_OldestFamilyMember", "03_OldestFamilyMember\03_OldestFamilyMember.csproj", "{57BE47E7-E1D2-4097-AB81-C78E6884BAAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_OldestFamilyMember", "03_OldestFamilyMember\03_OldestFamilyMember.csproj", "{57BE47E7-E1D2-4097-AB81-C78E6884BAAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_OpinionPoll", "04_OpinionPoll\04_OpinionPoll.csproj", "{028DDA3E-3EF8-48A1-8F71-D6FDB14AF9D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_OpinionPoll", "04_OpinionPoll\04_OpinionPoll.csproj", "{028DDA3E-3EF8-48A1-8F71-D6FDB14AF9D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_DateModifier", "05_DateModifier\05_DateModifier.csproj", "{172F345A-8192-4054-96CF-7962DDF1D51D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_DateModifier", "05_DateModifier\05_DateModifier.csproj", "{172F345A-8192-4054-96CF-7962DDF1D51D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_CompanyRoster", "06_CompanyRoster\06_CompanyRoster.csproj", "{D6B68409-7B41-4B2C-A509-21E0EFFA0F42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_CompanyRoster", "06_CompanyRoster\06_CompanyRoster.csproj", "{D6B68409-7B41-4B2C-A509-21E0EFFA0F42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_SpeedRacing", "07_SpeedRacing\07_SpeedRacing.csproj", "{741212D8-77A1-4447-8DD1-99E2B61E84C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_SpeedRacing", "07_SpeedRacing\07_SpeedRacing.csproj", "{741212D8-77A1-4447-8DD1-99E2B61E84C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_RawData", "08_RawData\08_RawData.csproj", "{645B4257-8B26-4192-8CF1-9127DD3582E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_RawData", "08_RawData\08_RawData.csproj", "{645B4257-8B26-4192-8CF1-9127DD3582E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_RectangleIntersection", "09_RectangleIntersection\09_RectangleIntersection.csproj", "{CDA97817-12A3-4942-B4AC-D72137BFA9C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_CarSalesman", "10_CarSalesman\10_CarSalesman.csproj", "{F84241EA-ACD7-4606-A31C-22031F665085}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{645B4257-8B26-4192-8CF1-9127DD3582E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{645B4257-8B26-4192-8CF1-9127DD3582E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{645B4257-8B26-4192-8CF1-9127DD3582E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA97817-12A3-4942-B4AC-D72137BFA9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA97817-12A3-4942-B4AC-D72137BFA9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA97817-12A3-4942-B4AC-D72137BFA9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA97817-12A3-4942-B4AC-D72137BFA9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F84241EA-ACD7-4606-A31C-22031F665085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84241EA-ACD7-4606-A31C-22031F665085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84241EA-ACD7-4606-A31C-22031F665085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84241EA-ACD7-4606-A31C-22031F665085}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
